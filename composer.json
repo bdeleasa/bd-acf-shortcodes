@@ -1,0 +1,6 @@
+{
+  "name": "bdeleasa/bd-acf-shortcodes",
+  "description": "A custom plugin for the AscendantFinancial.ca. Custom functionality for AscendantFinancial.com which isn't theme related.",
+  "type": "wordpress-muplugin",
+  "version": "1.0.0"
+}
