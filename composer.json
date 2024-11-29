@@ -1,6 +1,6 @@
 {
   "name": "bdeleasa/bd-acf-shortcodes",
-  "description": "A custom plugin for the AscendantFinancial.ca. Custom functionality for AscendantFinancial.com which isn't theme related.",
+  "description": "A small plugin for WordPress to enable the use of ACF [acf field=\"\"] shortcodes in query loops.",
   "type": "wordpress-muplugin",
   "version": "1.0.0"
 }
