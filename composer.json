@@ -2,5 +2,5 @@
   "name": "bdeleasa/bd-acf-shortcodes",
   "description": "A small plugin for WordPress to enable the use of ACF [acf field=\"\"] shortcodes in query loops.",
   "type": "wordpress-plugin",
-  "version": "1.0.0"
+  "version": "2.0.0"
 }
