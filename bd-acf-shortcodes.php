@@ -11,7 +11,7 @@
  * Plugin Name: BD ACF Shortcodes
  * Plugin URI:  https://github.com/bdeleasa/bd-acf-shortcodes
  * Description: A small plugin for WordPress to enable the use of ACF [acf field=""] shortcodes in query loops.
- * Version:     2.0.0
+ * Version:     2.1.0
  * Author:      Brianna Deleasa
  * Author URI:  https://briannadeleasa.com
  * Text Domain: bd-acf-shortcodes
